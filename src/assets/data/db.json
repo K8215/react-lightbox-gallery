@@ -1,0 +1,40 @@
+{
+    "fossilTypes": [      
+      {
+        "title": "Plant Fossils",
+        "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "photos": "doot.jpg,doot.jpg,doot.jpg",
+        "id": "0"
+      },
+      {
+        "title": "Marine Fossils",
+        "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "photos": "rex.jpg,rex.jpg,rex.jpg",
+        "id": "1"
+      },
+      {
+        "title": "Dinosaur Fossils",
+        "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "photos": "archyopteryx.jpg,rex.jpg,doot.jpg",
+        "id": "2"
+      },
+      {
+        "title": "Mammal Fossils",
+        "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "photos": "rex.jpg,rex.jpg,rex.jpg",
+        "id": "3"
+      },
+      {
+        "title": "Trace Fossils",
+        "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "photos": "doot.jpg,doot.jpg,doot.jpg",
+        "id": "4"
+      },
+      {
+        "title": "Living Fossils",
+        "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "photos": "rex.jpg,rex.jpg,rex.jpg",
+        "id": "5"
+      }
+    ]
+  }
